@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 078a23f11fc7440418d4ba9f84cbed80
+timeCreated: 1496416350
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Electric Boots
+  fontNames:
+  - Electric Boots
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
